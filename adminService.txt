@@ -1,0 +1,2 @@
+add and remove users
+calculate the current number of users
